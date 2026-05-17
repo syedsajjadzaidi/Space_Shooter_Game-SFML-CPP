@@ -175,13 +175,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-## Acknowledgments
-
-- **SFML Community**: For providing a robust multimedia library.
-- **OOP Course**: Inspiration from the Spring 2023 project requirements.
-
----
-
 **Built by Syed Mohammad Sajjad Zaidi**  
 *Feel free to star ⭐ this repository if you enjoyed the game!*
 
