@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\spaceship.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\spaceship.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\spaceship.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\spaceship.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\menu.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\menu.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\menu.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\menu.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\main.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\main.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\game.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\game.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\game.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\game.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\Enemy.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\Enemy.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\Enemy.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\Enemy.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\bullet.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\bullet.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\Animation.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\Animation.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\Add_on.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\Add_on.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "spaceship.h",
+              "DocumentMoniker": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\spaceship.h",
+              "RelativeDocumentMoniker": "Source\\spaceship.h",
+              "ToolTip": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\spaceship.h",
+              "RelativeToolTip": "Source\\spaceship.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T17:16:31.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "spaceship.cpp",
+              "DocumentMoniker": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\spaceship.cpp",
+              "RelativeDocumentMoniker": "Source\\spaceship.cpp",
+              "ToolTip": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\spaceship.cpp",
+              "RelativeToolTip": "Source\\spaceship.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T17:16:30.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "menu.h",
+              "DocumentMoniker": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\menu.h",
+              "RelativeDocumentMoniker": "Source\\menu.h",
+              "ToolTip": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\menu.h",
+              "RelativeToolTip": "Source\\menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T17:16:29.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "menu.cpp",
+              "DocumentMoniker": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\menu.cpp",
+              "RelativeDocumentMoniker": "Source\\menu.cpp",
+              "ToolTip": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\menu.cpp",
+              "RelativeToolTip": "Source\\menu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T17:16:28.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\main.cpp",
+              "RelativeDocumentMoniker": "Source\\main.cpp",
+              "ToolTip": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\main.cpp",
+              "RelativeToolTip": "Source\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T17:16:26.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\game.h",
+              "RelativeDocumentMoniker": "Source\\game.h",
+              "ToolTip": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\game.h",
+              "RelativeToolTip": "Source\\game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T17:16:25.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\game.cpp",
+              "RelativeDocumentMoniker": "Source\\game.cpp",
+              "ToolTip": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\game.cpp",
+              "RelativeToolTip": "Source\\game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T17:16:24.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bullet.h",
+              "DocumentMoniker": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\bullet.h",
+              "RelativeDocumentMoniker": "Source\\bullet.h",
+              "ToolTip": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\bullet.h",
+              "RelativeToolTip": "Source\\bullet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T17:16:19.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Animation.h",
+              "DocumentMoniker": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\Animation.h",
+              "RelativeDocumentMoniker": "Source\\Animation.h",
+              "ToolTip": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\Animation.h",
+              "RelativeToolTip": "Source\\Animation.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T17:16:17.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Add_on.h",
+              "DocumentMoniker": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\Add_on.h",
+              "RelativeDocumentMoniker": "Source\\Add_on.h",
+              "ToolTip": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\Add_on.h",
+              "RelativeToolTip": "Source\\Add_on.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T17:15:58.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\Enemy.h",
+              "RelativeDocumentMoniker": "Source\\Enemy.h",
+              "ToolTip": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\Enemy.h",
+              "RelativeToolTip": "Source\\Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T17:15:56.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\Enemy.cpp",
+              "RelativeDocumentMoniker": "Source\\Enemy.cpp",
+              "ToolTip": "C:\\Users\\kazim\\source\\repos\\Space-Shooter-Game-SFML-CPP\\Source\\Enemy.cpp",
+              "RelativeToolTip": "Source\\Enemy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T17:15:53.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
