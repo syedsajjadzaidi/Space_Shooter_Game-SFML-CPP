@@ -182,6 +182,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-**Built with 🚀 by Muhammad Salman Saleem**  
+**Built by Syed Mohammad Sajjad Zaidi**  
 *Feel free to star ⭐ this repository if you enjoyed the game!*
 
